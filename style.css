@@ -20,4 +20,5 @@ h3{family-font:new times roman,ariel;
 nav a{text decoration:none; textweight:bold; color:gray;}
 
 table
-{tableborder:20px; padding:20px; margin:20px;}
+{tableborder:20px; padding:20px; margin:20px; background:gray; margin-left:800px; margin-right:800px;}
+img{width:600px;}
